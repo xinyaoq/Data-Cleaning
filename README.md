@@ -1,5 +1,5 @@
 # Data-Cleaning
-Data cleaning for movie dataset drawn from Kaggle: https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv 
+Data cleaning for movie dataset downloaded from Kaggle: https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv 
 
 Step 1: Identify missing or incomplete data values in cells in each column.
 
