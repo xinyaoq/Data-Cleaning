@@ -1,5 +1,6 @@
 # Data-Cleaning
 Data cleaning for movie dataset drawn from Kaggle: https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction?select=movies.csv 
+
 Step 1: Identify missing or incomplete data values in cells in each column.
 Step 2: Identify any duplicate records and remove them from the dataset.
 Step 3: Separate multiple values in a cell into several cells so that one value has one record.
